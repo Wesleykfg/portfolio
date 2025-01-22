@@ -8,8 +8,8 @@
     --cor-terciaria: #603F26;
     --cor-hover: #6C4E31;
 
-    --fonte-primaria: "Krona One", serif;
-    --fonte-secundaria: "Montserrat", serif;
+    --fonte-primaria: "Krona One", sans-serif;
+    --fonte-secundaria: "Montserrat", sans-serif;
 }
 
 * { /* * seleciona todo os elementos do css*/
@@ -100,7 +100,7 @@ body{
     font-family: var(--fonte-secundaria);
 }
 
-.apresentacao__links__link:hover { /*O :hover é usado para quando passarmos a setinha do mouse no local ele se destaque de alguma forma*/
+.apresentacao__links__navegacao:hover { /*O :hover é usado para quando passarmos a setinha do mouse no local ele se destaque de alguma forma*/
     background-color: var(--cor-hover);
 }
 
