@@ -102,6 +102,15 @@ body{
 
 .apresentacao__links__navegacao:hover { /*O :hover é usado para quando passarmos a setinha do mouse no local ele se destaque de alguma forma*/
     background-color: var(--cor-hover);
+    transition: .3s;
+    box-shadow: 1px 1px var(--cor-secundaria),
+    2px 2px var(--cor-secundaria), 
+    3px 3px var(--cor-secundaria),
+    4px 4px var(--cor-secundaria),
+    5px 5px var(--cor-secundaria),
+    6px 6px var(--cor-secundaria),
+    2px 2px var(--cor-secundaria);
+    transform: translateX(-3px);
 }
 
 .apresentacao__imagem {
