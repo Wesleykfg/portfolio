@@ -1,6 +1,7 @@
 # Olá, Bem vindo ao meu projeto de portfólio.
 
-![Screenshot 2025-01-22 122603](https://github.com/user-attachments/assets/4420b6f3-7e01-4132-9a32-32cd8e8d47a0)
+![Screenshot 2025-01-22 122603](https://github.com/user-attachments/assets/d94d5e38-a8b8-4af4-9dde-adc86822a82a)
+
 
 
 ## Ferramentas utilizadas:
@@ -15,3 +16,5 @@
 ### Wesley Gomes
 
 ### Linkedin: https://www.linkedin.com/in/wesley-gomes-528978142/
+
+## Site: https://portfolio-three-ruddy-93.vercel.app
